@@ -9,7 +9,7 @@ public class Email {
         this.emailId = emailId;
         this.password = "Accio@123";
     }
-
+        //
     public String getEmailId() {
         return emailId;
     }
